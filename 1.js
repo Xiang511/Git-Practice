@@ -4,3 +4,6 @@ console.log('test git pull --rebase');
 console.log('wer');
 console.log('wer');
 console.log('12');
+console.log('12');
+
+console.log('13');
