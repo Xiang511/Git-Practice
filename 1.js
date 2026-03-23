@@ -7,3 +7,4 @@ console.log('12');
 console.log('12');
 
 console.log('13');
+console.log('4');
