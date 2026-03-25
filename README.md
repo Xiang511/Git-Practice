@@ -2,3 +2,5 @@
 練習 Git
 
 git rebase
+
+test
